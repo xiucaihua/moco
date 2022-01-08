@@ -148,3 +148,5 @@ subprojects {
 wrapper {
     gradleVersion = '7.3.3'
 }
+
+{ "response" : { "text" : "Hello, Moco" } } 
